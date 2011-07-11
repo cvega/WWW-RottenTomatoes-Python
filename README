@@ -1,0 +1,13 @@
+This archive contains the distribution WWW_RottenTomatoes,
+version 1.0.0:
+
+  A Python interface to the Rotten Tomatoes API
+
+  This module is intended to provide an interface between
+  Python and the Rotten Tomatoes JSON API. The Rotten Tomatoes
+  API is a RESTful web service. In order to use this library
+  you must provide an api key which requires registration.
+  For more information please see http://dev.rottentomatoes.com
+
+This software is copyright (c) 2011 by Casey Vega and
+released under the GNU GENERAL PUBLIC LICENSE.
