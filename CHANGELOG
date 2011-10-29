@@ -1,4 +1,8 @@
 Revision history for WWW_RottenTomatoes
 
+0.02    2011-10-29 01:45:00 America/Los_Angeles
+   - add new functions
+   - general clean up and reorganization of functions
+
 0.01	2011-07-10 12:45:00 America/Los_Angeles
    - initial commit
