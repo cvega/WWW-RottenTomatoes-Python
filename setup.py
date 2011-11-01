@@ -3,9 +3,9 @@
 from distutils.core import setup
 
 setup(
-	name = "WWW_RottenTomatoes",
-	packages = ["WWW_RottenTomatoes"],
-	version = "1.0.0",
+	name = "rottentomatoes",
+	packages = ["rottentomatoes"],
+	version = "1.0.3",
 	description = "A Python 3 interface to the Rotten Tomatoes API",
 	author = "Casey Vega",
 	author_email = "casey.vega@gmail.com",
