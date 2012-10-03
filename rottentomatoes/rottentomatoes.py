@@ -2,7 +2,7 @@
 
 import urllib.parse, urllib.request, json
 
-class Rest(object):
+class RottenTomatoes(object):
     """
     RottenTomatoes API client for Python 3
 
